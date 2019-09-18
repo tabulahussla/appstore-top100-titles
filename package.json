@@ -1,0 +1,29 @@
+{
+  "name": "appstore-top100-titles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabulahussla/appstore-top100-titles.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tabulahussla/appstore-top100-titles/issues"
+  },
+  "homepage": "https://github.com/tabulahussla/appstore-top100-titles#readme",
+  "dependencies": {
+    "app-store-scraper": "^0.16.0",
+    "chalk": "^2.4.2",
+    "commander": "^3.0.1",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0",
+    "searchitunes": "^2.4.0",
+    "shelljs": "^0.8.3",
+    "yargs": "^14.0.0"
+  }
+}
