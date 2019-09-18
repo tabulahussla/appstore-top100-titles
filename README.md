@@ -20,7 +20,7 @@ node index.js -o top100titles.txt -s 'angry birds'
 - Top Free in Arcade Games, save to csv
 
 ```shell
-node index.js -o top100titles.txt -g GAMES_ARCADE:TOP_FREE_IOS
+node index.js -o top100titles.csv -g GAMES_ARCADE:TOP_FREE_IOS
 ```
 
 For a list of categories, reference this file: https://github.com/facundoolano/app-store-scraper/blob/master/lib/constants.js
