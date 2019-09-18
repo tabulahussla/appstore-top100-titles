@@ -22,7 +22,7 @@ function cleanApp (app) {
     appId: app.id.attributes['im:bundleId'],
     title: app['im:name'].label,
     icon: app['im:image'][app['im:image'].length - 1].label,
-    url: app.link.attributes.href,
+    url: app.link.attributes && app.link.attributes.href,
     price,
     currency: app['im:price'].attributes.currency,
     free: price === 0,
