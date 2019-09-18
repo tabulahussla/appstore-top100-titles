@@ -8,6 +8,7 @@ appstore-top100-titles
 ```shell
 git clone https://github.com/tabulahussla/appstore-top100-titles.git
 cd appstore-top100-titles
+npm install
 ```
 
 - Search, save to txt
