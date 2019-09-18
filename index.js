@@ -21,6 +21,8 @@ must specify only one of:
 -s (search) or -g (CATEGORY:COLLECTION)
 
 optional args:
+-p to specify search for only paid apps
+-f to specify search for only free apps
 -c is country
 -l is limit`)
 
