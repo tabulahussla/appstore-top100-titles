@@ -27,10 +27,10 @@ For a list of categories, reference this file: https://github.com/facundoolano/a
 
 Here are the shortcuts:
 
-+ [<Categoriy Names>](https://github.com/facundoolano/app-store-scraper/blob/master/lib/constants.js#L19)
++ [\<Categoriy Names\>](https://github.com/facundoolano/app-store-scraper/blob/master/lib/constants.js#L19)
 
-+ [<Collection Names>](https://github.com/facundoolano/app-store-scraper/blob/master/lib/constants.js#L3)
++ [\<Collection Names\>](https://github.com/facundoolano/app-store-scraper/blob/master/lib/constants.js#L3)
 
-+ [<Available Country Codes>](https://github.com/facundoolano/app-store-scraper/blob/master/lib/constants.js#L104)
++ [\<Available Country Codes\>](https://github.com/facundoolano/app-store-scraper/blob/master/lib/constants.js#L104)
 
-+ [<WIKI: List_of_ISO_3166_country_codes>](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes#Current_ISO_3166_country_codes) (Search for `Alpha-2 Code`)
++ [\<WIKI: List_of_ISO_3166_country_codes\>](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes#Current_ISO_3166_country_codes) (Search for `Alpha-2 Code`)
