@@ -33,4 +33,4 @@ Here are the shortcuts:
 
 + [\<Available Country Codes\>](https://github.com/facundoolano/app-store-scraper/blob/master/lib/constants.js#L104)
 
-+ [\<WIKI: List_of_ISO_3166_country_codes\>](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes#Current_ISO_3166_country_codes) (Search for `Alpha-2 Code`)
++ [\<WIKI: List_of_ISO_3166_country_codes\>](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes#Current_ISO_3166_country_codes) (Search for `Alpha-2 Code[`)
