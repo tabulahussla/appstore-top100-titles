@@ -15,9 +15,14 @@ const s = 's';
 
 const PrintUsage = () =>
     console.log(`Usage:
-node ${argv.$0} -o path to txt or csv file to save -s searchTerm -g grossingGenreId -f freeGenreId -p paidGenreId -l=100 -c=NL
--c country
--l limit`)
+node ${argv.$0} -o path to txt or csv file to save -s searchTerm -g CATEGORY:COLLECTION -l=100 -c=NL
+
+must specify only one of:
+-s (search) or -g (CATEGORY:COLLECTION)
+
+optional args:
+-c is country
+-l is limit`)
 
 const { o: outputPath = '' } = argv;
 
