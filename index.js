@@ -56,7 +56,7 @@ if (typeof outputPath !== 'string' || !outputPath.length) {
             /*      SET [PRICE VALUE FILTERING] TO "1"
                     FOR [-p]AID APPLICATIONS
                     AND "0" FOR [-f]REE APPLICATIONS */
-            argv.p === true || argv.f === true ? 1 : undefined,
+            argv.p === true ? 1 : argv.f === true ? 0 : undefined,
         /* LIMIT VALUE */ limit
         );
         /* SAVE ARRAY OF APP TITLES */
