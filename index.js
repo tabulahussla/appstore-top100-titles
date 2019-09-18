@@ -1,11 +1,6 @@
 require('./patch/apply');
-const inquirer = require('inquirer');
-const chalk = require('chalk');
-const figlet = require('figlet');
-const shell = require('shelljs');
 const store = require('app-store-scraper')
 const fs = require('fs')
-const pkg = require('./package.json');
 const { SearchItunesSoftware } = require('./search');
 const { ListByGenreId } = require('./list');
 const { argv } = require('yargs');
